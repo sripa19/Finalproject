@@ -95,8 +95,5 @@ if st.button("Predict"):
         st.warning(f"This individual is unlikely to be a LinkedIn user. Probability: {prob[0]:.2f}")
 
 
-# In[ ]:
-
-
 
 
