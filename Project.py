@@ -58,6 +58,3 @@ if st.button("Predict LinkedIn User"):
         st.success(f"The person is predicted to be a LinkedIn user with a probability of {probability[0]:.2f}.")
     else:
         st.info(f"The person is predicted to NOT be a LinkedIn user with a probability of {probability[0]:.2f}.")
-
-
-
